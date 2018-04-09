@@ -1,0 +1,14 @@
+E:\programming\Tutorial\WPF\Clinic\Clinic\bin\Debug\Clinic.exe.config
+E:\programming\Tutorial\WPF\Clinic\Clinic\bin\Debug\Clinic.exe
+E:\programming\Tutorial\WPF\Clinic\Clinic\bin\Debug\Clinic.pdb
+E:\programming\Tutorial\WPF\Clinic\Clinic\obj\Debug\MainWindow.g.cs
+E:\programming\Tutorial\WPF\Clinic\Clinic\obj\Debug\App.g.cs
+E:\programming\Tutorial\WPF\Clinic\Clinic\obj\Debug\Clinic_MarkupCompile.cache
+E:\programming\Tutorial\WPF\Clinic\Clinic\obj\Debug\Clinic_MarkupCompile.lref
+E:\programming\Tutorial\WPF\Clinic\Clinic\obj\Debug\MainWindow.baml
+E:\programming\Tutorial\WPF\Clinic\Clinic\obj\Debug\Clinic.g.resources
+E:\programming\Tutorial\WPF\Clinic\Clinic\obj\Debug\Clinic.Properties.Resources.resources
+E:\programming\Tutorial\WPF\Clinic\Clinic\obj\Debug\Clinic.csproj.GenerateResource.Cache
+E:\programming\Tutorial\WPF\Clinic\Clinic\obj\Debug\Clinic.exe
+E:\programming\Tutorial\WPF\Clinic\Clinic\obj\Debug\Clinic.pdb
+E:\programming\Tutorial\WPF\Clinic\Clinic\obj\Debug\Clinic.csprojResolveAssemblyReference.cache
